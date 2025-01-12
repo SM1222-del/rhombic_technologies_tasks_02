@@ -8,8 +8,8 @@ The Grade Tracker System is an academic management tool designed for both studen
 ### Key Features:
 - **Student Functions:**
   - View grades for subjects.
-  - View attendance (future feature).
-  - View portfolio (future feature).
+  - View attendance 
+  - View portfolio 
   
 - **Teacher Functions:**
   - Add new students.
