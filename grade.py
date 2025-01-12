@@ -192,7 +192,7 @@ def authenticate(username, password, users):
 
 def main():
     users = [Teacher("Sidra", hash_password("123"))]  # default teacher name & password
-    file_name = "grades.xlsx"
+    file_name = "" #replace an empty string with an excel file name
 
 # Create the Excel file if it doesn't exist
     try:
