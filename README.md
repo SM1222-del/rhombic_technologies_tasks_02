@@ -35,7 +35,6 @@ The Grade Tracker System is an academic management tool designed for both studen
    pip install openpyxl
    
 ###Limitations
-Attendance and Portfolio Features:
 
 The attendance and portfolio features are placeholders and not fully implemented yet. The system prints a message stating that the functionality is not implemented.
 Input Format for Grades:
